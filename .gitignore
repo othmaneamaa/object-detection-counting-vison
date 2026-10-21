@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images/données de test (à ajuster selon votre projet)
+# datasets/
+# *.jpg
+# *.png
+# *.csv
+
+# Exports générés
+outputs/
+results/
+*.log
